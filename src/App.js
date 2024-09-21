@@ -243,7 +243,7 @@ function App() {
                     </div>
 
                     <input
-                      className='border-solid border-2 round mr-3 mb-5 rounded-md p-2'
+                      className='border-solid border-2 round mr-3 mb-5  text-black rounded-md p-2'
                       type="text"
                       value={editingText} // Shows the task to edit if in edit mode
                       onChange={handleEditChange}
